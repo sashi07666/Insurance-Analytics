@@ -25,7 +25,7 @@ The dataset contains Customers Insurance data.
 ETC…
 
 # Acceptance Criterion: 
-Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project. 
+Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project and at the end prepare a PPT to showcase everything
 
 # Milestones:
 30 days to complete the Project.
