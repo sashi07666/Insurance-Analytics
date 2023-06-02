@@ -28,5 +28,13 @@ The dataset contains Customers Insurance data.
 # Acceptance Criterion: 
 Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project and at the end prepare a PPT to showcase everything
 
+# Steps performed:
+1. Import Data.
+2. Data Cleaning and Manipulation.
+3. Data Imputation.
+4. Data Analysis using KPI's.
+5. Data Visualization and draw insights.
+6. Summary and Conclusion.
+
 # Milestones:
 30 days to complete the Project.
