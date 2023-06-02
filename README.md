@@ -1,5 +1,5 @@
 # Insurance-Analytics
-Data Analyst Project on Insurance Domain
+Data Analyst Project on Insurance Domain.
 
 # Business Objective:
 This Data set is about Insurance, we have to prepare the Dashboard and story for the total analysis.
@@ -17,12 +17,13 @@ The dataset contains Customers Insurance data.
 8. Loan Status – Check whether applicant is approved for loan.
 9. Benefits – The amount payable by the insurance company to a applicants for any costs regarding the plan.
 
-# KPI
-1. Loan Status By Gender and married
-2. Loan Status by Credit History
-3. Loan Status By Education
-4. Loan Status By Maturity Term
-ETC…
+# KPI's
+1. Credit History by Income.
+2. Gender by Loan Status(Married).
+3. Premium by Maturity(Married Male).
+4. Income and Premium by Dependents.
+5. Premium and Number of Applicants by Salary Range.
+6. Premium by Branch and Job.
 
 # Acceptance Criterion: 
 Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project and at the end prepare a PPT to showcase everything
