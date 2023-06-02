@@ -31,9 +31,9 @@ Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this proje
 # Steps performed:
 1. Import Data.
 2. Data Cleaning, Manipulation and Imputation. 
-4. Data Analysis using KPI's.
-5. Data Visualization and draw insights.
-6. Summary and Conclusion.
+3. Data Analysis using KPI's.
+4. Data Visualization and draw insights.
+5. Summary and Conclusion.
 
 # Milestones:
 30 days to complete the Project.
