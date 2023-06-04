@@ -1,5 +1,5 @@
 # Insurance-Analytics
-Data Analyst Project on Insurance Domain.
+Data Analytics Project on Insurance Domain.
 
 # Business Objective:
 This Data set is about Insurance, we have to prepare the Dashboard and story for the total analysis.
