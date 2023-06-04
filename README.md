@@ -18,13 +18,13 @@ The dataset contains Customers Insurance data.
 9. Benefits – The amount payable by the insurance company to a applicants for any costs regarding the plan.
 
 # Data Set Name:
-Insurance
+Insurance.
 
 # Data Set Type:
-CSV Data
+CSV Data.
 
 # Data Set Size:
-615 rows
+615 rows.
 
 # KPI's
 1. Credit History by Income.
@@ -35,7 +35,7 @@ CSV Data
 6. Premium by Branch and Job.
 
 # Acceptance Criterion: 
-Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project and at the end prepare a PPT to showcase everything
+Need to apply Excel, My SQL, Power BI and  Tableau tools to implement this project and at the end prepare a PPT to showcase everything.
 
 # Steps performed:
 1. Import Data.
