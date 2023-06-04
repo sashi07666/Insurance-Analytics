@@ -17,6 +17,15 @@ The dataset contains Customers Insurance data.
 8. Loan Status – Check whether applicant is approved for loan.
 9. Benefits – The amount payable by the insurance company to a applicants for any costs regarding the plan.
 
+# Dataset Name:
+Insurance
+
+# Dataset Type:
+CSV Data
+
+# Dataset Size:
+615 rows
+
 # KPI's
 1. Credit History by Income.
 2. Gender by Loan Status(Married).
